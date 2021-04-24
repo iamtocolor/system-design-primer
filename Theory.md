@@ -182,6 +182,7 @@ First, you'll need a basic understanding of common principles, learning about wh
         * [Kafka](https://kafka.apache.org/documentation/)
         * [RabbitMQ Vs Kafka](https://tanzu.vmware.com/developer/blog/understanding-the-differences-between-rabbitmq-vs-kafka/)
         * [Rabbit Vs Kafka](https://www.educative.io/edpresso/kafka-vs-rabbitmq)
+        * [AMQP](https://www.cloudamqp.com/blog/what-is-amqp-and-why-is-it-used-in-rabbitmq.html)
     * WebServer
         * [Youtube](https://www.youtube.com/watch?v=Yt1nesKi5Ec)
         * [Mozilla Resource](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
