@@ -85,6 +85,14 @@ Handy conversion guide:
 
 > Dive into details for each core component.
 
+
+### Api Design
+![img](https://i.imgur.com/uISauHV.png)
+
+### Database schema
+![img](https://i.imgur.com/L9xMoE5.png)
+
+
 ### Use case: User enters a block of text and gets a randomly generated link
 
 We could use a [relational database](https://github.com/donnemartin/system-design-primer#relational-database-management-system-rdbms) as a large hash table, mapping the generated url to a file server and path containing the paste file.
@@ -162,13 +170,6 @@ Response:
 ```
 
 For internal communications, we could use [Remote Procedure Calls](https://github.com/donnemartin/system-design-primer#remote-procedure-call-rpc).
-
-
-### Api Design
-![img](https://i.imgur.com/uISauHV.png)
-
-### Database schema
-![img](https://i.imgur.com/L9xMoE5.png)
 
 ### Use case: User enters a paste's url and views the contents
 
