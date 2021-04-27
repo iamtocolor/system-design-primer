@@ -167,6 +167,8 @@ For internal communications, we could use [Remote Procedure Calls](https://githu
 ### Api Design
 ![img](https://i.imgur.com/uISauHV.png)
 
+### Database schema
+![img](https://i.imgur.com/L9xMoE5.png)
 
 ### Use case: User enters a paste's url and views the contents
 
