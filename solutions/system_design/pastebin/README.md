@@ -163,6 +163,11 @@ Response:
 
 For internal communications, we could use [Remote Procedure Calls](https://github.com/donnemartin/system-design-primer#remote-procedure-call-rpc).
 
+
+### Api Design
+![img](https://i.imgur.com/uISauHV.png)
+
+
 ### Use case: User enters a paste's url and views the contents
 
 * The **Client** sends a get paste request to the **Web Server**
@@ -226,9 +231,6 @@ class HitCounts(MRJob):
         """
         yield key, sum(values)
 ```
-
-### API DESIGN
-![img](https://i.imgur.com/uISauHV.png)
 
 ### Use case: Service deletes expired pastes
 
