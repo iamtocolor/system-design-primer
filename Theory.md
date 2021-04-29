@@ -944,7 +944,9 @@ Sample data well-suited for NoSQL:
   <i><a href=http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html>Source: Scalable system design patterns</a></i>
 </p>
 
-[L1 vs L2](https://stackoverflow.com/questions/3699582/what-is-the-difference-between-l1-cache-and-l2-cache)
+* [L1 vs L2](https://stackoverflow.com/questions/3699582/what-is-the-difference-between-l1-cache-and-l2-cache)
+
+* [Lucene](https://www.youtube.com/results?search_query=apacee+lucene)
 
 Caching improves page load times and can reduce the load on your servers and databases.  In this model, the dispatcher will first lookup if the request has been made before and try to find the previous result to return, in order to save the actual execution.
 
