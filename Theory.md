@@ -192,6 +192,7 @@ First, you'll need a basic understanding of common principles, learning about wh
         * [How webserver handle multiple connections](https://stackoverflow.com/questions/13190176/how-does-port-number-really-work-in-tcp/29045432#29045432)
     * Application Server
         * [InfoWorld](https://www.infoworld.com/article/2077354/app-server-web-server-what-s-the-difference.html)
+        * [TCP VS HTTP](https://www.extrahop.com/company/blog/2018/tcp-vs-http-differences-explained/)
         
 ### Next steps
 
