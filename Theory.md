@@ -905,6 +905,9 @@ Graphs databases offer high performance for data models with complex relationshi
   <i><a href=https://www.infoq.com/articles/Transition-RDBMS-NoSQL/>Source: Transitioning from RDBMS to NoSQL</a></i>
 </p>
 
+No Sql Flavours
+    [Img](https://imgur.com/PWECbnw)
+    
 Reasons for **SQL**:
 
 * Structured data
