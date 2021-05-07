@@ -89,6 +89,9 @@ Handy conversion guide:
 * 40 requests per second = 100 million requests per month
 * 400 requests per second = 1 billion requests per month
 
+## Database Design
+![IMG](https://imgur.com/BwBwezG)
+
 ## Step 2: Create a high level design
 
 > Outline a high level design with all important components.
