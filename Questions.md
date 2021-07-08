@@ -1,7 +1,7 @@
-|Name | Resources|
-|-----|----------|
-| Design Pastebin.com (or Bit.ly) | [Solution](solutions/system_design/pastebin/README.md) |
-| Design the Twitter timeline | [Solution](solutions/system_design/twitter/README.md) |
+|Name | Resources| status |
+|-----|----------|---------|
+| Design Pastebin.com (or Bit.ly) | [Solution](solutions/system_design/pastebin/README.md) |:heavy_check_mark:
+| Design the Twitter timeline | [Solution](solutions/system_design/twitter/README.md) |:heavy_check_mark:
 | Design the Twitter search | [Solution](solutions/system_design/twitter/README.md) |
 | Design a web crawler | [Solution](solutions/system_design/web_crawler/README.md) |
 | Design Mint.com | [Solution](solutions/system_design/mint/README.md) |
